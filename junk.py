@@ -30,4 +30,4 @@ async def hello():
 
 #Token
 
-bot.run('44H-JKoocn6dJfm6L-gu3uPTHAqEBUTX')
+bot.run('YEzh5B_yuc07aU-HqZZXYd81SZ2blZ-p')
